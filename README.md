@@ -109,21 +109,6 @@ npm run preview
 
 
 
-## 🎓 Sample Data
-
-### Departments & Sections
-- **Department**: CSE (Computer Science Engineering)
-- **Year**: 3rd Year (Semester 5)
-- **Sections**: A, B, C, D
-- **Students**: 20 students (5 per section)
-
-### Subjects (3rd Year CSE)
-- Data Structures
-- Algorithms
-- Database Management Systems (DBMS)
-- Operating Systems (OS)
-- Computer Networks (CN)
-- Software Engineering (SE)
 
 ## 🛠️ Key Features per SRS
 
