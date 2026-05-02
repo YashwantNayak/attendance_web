@@ -106,19 +106,8 @@ npm run preview
 - **Email**: `faculty@college.edu`
 - **Password**: `faculty123`
 
-## 📚 Lecture Schedule
 
-| Lecture | Time |
-|---------|------|
-| 1 | 09:00 - 09:50 |
-| 2 | 09:50 - 10:40 |
-| 3 | 10:40 - 11:30 |
-| 4 | 11:30 - 12:20 |
-| LUNCH | 12:20 - 13:00 |
-| 5 | 13:00 - 13:50 |
-| 6 | 13:50 - 14:40 |
-| 7 | 14:40 - 15:20 |
-| 8 (optional) | 15:30 - 16:20 |
+
 
 ## 🎓 Sample Data
 
