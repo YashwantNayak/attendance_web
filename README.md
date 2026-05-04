@@ -2,7 +2,6 @@
 
 A comprehensive web application for engineering colleges to track, view, manage, and export student attendance in real time. Built with **React + Vite + TypeScript**.
 
-## 🎯 Features
 
 ### Role-Based Access Control
 - **Admin**: Full system access with analytics, student management, and reporting
