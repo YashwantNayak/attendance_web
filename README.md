@@ -171,6 +171,3 @@ All components use:
 - AI analytics/predictions
 
 
----
-
-**Built with ❤️ using React + Vite + TypeScript**
