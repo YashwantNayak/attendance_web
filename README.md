@@ -170,9 +170,6 @@ All components use:
 - Biometric integration
 - AI analytics/predictions
 
-## 📄 License
-
-This project is for educational purposes.
 
 ---
 
