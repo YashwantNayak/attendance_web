@@ -70,9 +70,6 @@ src/
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Node.js 16+ and npm
-
 ### Installation
 
 ```powershell
